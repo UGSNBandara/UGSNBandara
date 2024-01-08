@@ -1,5 +1,6 @@
 ### Hello world 👋, I am Sulitha Nulaksha Bandara🙃, from Sri Lanka( Cylon 🌍)
-
+I am an undergraduate engineering student👨‍🎓, and I am seeking knowledge around the world🌍.
+I am here to improve my skills and develop my network. 
 
 <!--
 **UGSNBandara/UGSNBandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
