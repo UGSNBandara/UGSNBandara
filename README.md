@@ -138,9 +138,9 @@ agent = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=UGSNBandara&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UGSNBandara&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false&cache_seconds=86400&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UGSNBandara&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false&count_private=true&cache_seconds=86400&rank_icon=github" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UGSNBandara&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&border_color=333333&hide_border=false&cache_seconds=86400&langs_count=8" />
 
 </div>
 
