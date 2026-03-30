@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sulitha-nulaksha-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nulaksha-bandara)
 [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nulakshastudy19@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=UGSNBandara&style=for-the-badge&color=333333&label=PROFILE+VIEWS)
 
 </div>
 
